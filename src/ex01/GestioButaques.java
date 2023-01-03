@@ -3,7 +3,7 @@ package ex01;
 import java.util.ArrayList;
 
 public class GestioButaques {
-	ArrayList<Butaca> butaques;
+	private ArrayList<Butaca> butaques;
 	
 	public GestioButaques() {
 		butaques= new ArrayList<Butaca>();
